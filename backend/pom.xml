@@ -11,8 +11,8 @@
     <groupId>com.arelraba.tradejournal</groupId>
     <artifactId>backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>tradejournal-backend</name>
-    <description>tradejournal-backend</description>
+    <name>backend</name>
+    <description>backend</description>
     <url/>
     <licenses>
         <license/>
